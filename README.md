@@ -4,7 +4,7 @@ It is a projects for retinal blood vessel segmentation
 * Image preprocessing
 * Patch extraction
 * Train the data
-* Test teh data
+* Test the data
 # model architectutre
 ![1] 
 

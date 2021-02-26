@@ -6,6 +6,6 @@ It is a projects for retinal blood vessel segmentation
 * Train the data
 * Test teh data
 # model architectutre
-
+![1] 
 
 
